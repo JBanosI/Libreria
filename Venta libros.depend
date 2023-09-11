@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1588608848 source:f:\semestre 2-3\poo\programas\venta libros\fecha.cpp
+
+1588612178 source:f:\semestre 2-3\poo\programas\venta libros\main.cpp
+	<iostream>
+	"LIBRERIA.h"
+	"LIBRO.h"
+	<cstdlib>
+
+1588610590 f:\semestre 2-3\poo\programas\venta libros\libreria.h
+	"LIBRO.h"
+	<string>
+
+1588608848 f:\semestre 2-3\poo\programas\venta libros\libro.h
+	<string>
+	"F:\Semestre 2-3\POO\Programas\Venta libros\FECHA.cpp"
+
+1588608848 f:\semestre 2-3\poo\programas\venta libros\fecha.cpp
+
+1588611938 source:f:\semestre 2-3\poo\programas\venta libros\libreria.cpp
+	"LIBRERIA.h"
+	"LIBRO.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<fstream>
+
+1588611322 source:f:\semestre 2-3\poo\programas\venta libros\libro.cpp
+	"LIBRO.h"
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+
+1588608848 source:c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\fecha.cpp
+
+1588612564 source:c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\libreria.cpp
+	"LIBRERIA.h"
+	"LIBRO.h"
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<fstream>
+
+1588610590 c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\libreria.h
+	"LIBRO.h"
+	<string>
+
+1588608848 c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\libro.h
+	<string>
+	"F:\Semestre 2-3\POO\Programas\Venta libros\FECHA.cpp"
+
+1588611322 source:c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\libro.cpp
+	"LIBRO.h"
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+
+1588612178 source:c:\users\jesusbaños\desktop\usb\semestre 2-3\poo\programas\venta libros\main.cpp
+	<iostream>
+	"LIBRERIA.h"
+	"LIBRO.h"
+	<cstdlib>
+
